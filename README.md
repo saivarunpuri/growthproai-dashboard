@@ -35,7 +35,7 @@ A full-stack web application that simulates how small businesses might view thei
 ### 1. Clone the repository
 
 ```sh
-git clone <your-repo-url>
+(https://github.com/saivarunpuri/growthproai-dashboard)
 cd growthproai-dashboard
 ```
 
