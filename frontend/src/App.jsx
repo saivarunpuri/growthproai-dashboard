@@ -4,7 +4,7 @@ import BusinessCard from "./components/BusinessCard";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
-const API_URL = import.meta.env.VITE_API_URL;
+const API_URL = import.meta.env.VITE_API_URL.replace(/\/$/, "");
 
 export default function App() {
   const [businessData, setBusinessData] = useState(null);

@@ -124,7 +124,7 @@ The frontend runs on [http://localhost:5173](http://localhost:5173)
 
 1. Push your frontend code to GitHub.
 2. On Vercel/Netlify, import your repo and set the environment variable:
-   - `VITE_API_URL=https://your-backend.onrender.com`
+   - `VITE_API_URL=https://growthproai-dashboard.onrender.com`
 3. Deploy!
 
 ### Backend (Render)
